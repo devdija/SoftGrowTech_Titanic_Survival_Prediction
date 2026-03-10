@@ -1,0 +1,2 @@
+# SoftGrowTech_Titanic_Survival_Prediction
+Project on Titanic survival prediction
